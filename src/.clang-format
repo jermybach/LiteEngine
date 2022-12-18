@@ -1,0 +1,13 @@
+BasedOnStyle: Microsoft
+
+AccessModifierOffset: -4
+AlignArrayOfStructures: Left
+ColumnLimit: 80
+IndentWidth: 4
+
+---
+Language: Cpp
+
+IncludeCategories:
+ - Regex: 'Precompiled.h'
+   Priority: -10

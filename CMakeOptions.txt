@@ -1,0 +1,1 @@
+option(RENDERSYSTEM_BACKEND_OPENGL ON "Enable OpenGL renderer")
